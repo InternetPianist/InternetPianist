@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2000Later)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000Later)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000Later&layout=compact)
 <!--
 **2000Later/2000Later** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
